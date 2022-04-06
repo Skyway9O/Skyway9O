@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skyway9O
 - 👀 I’m interested in informatics
-- 🌱 I’m currently learning essentially python and html but alos other languages (Javascript, C#, ...).
+- 🌱 I’m currently learning essentially python and html but also other languages (Javascript, C#, ...).
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me ...
 
